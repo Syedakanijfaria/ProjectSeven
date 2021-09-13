@@ -2,9 +2,11 @@ body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
 }
+/*------------search field style */
 .search-button {
   margin-left: 10px;
 }
+/*-------------product style */
 .single-product:hover {
   box-shadow: 4px 4px 7px rgb(117, 116, 116);
   border-radius: 10px;
@@ -15,6 +17,7 @@ body {
   width: 150px;
   height: 150px;
 }
+/*----------Purchasing Cart style-----------*/
 .cart {
   border: 2px solid rgb(169, 211, 169);
   margin-top: 100px;
