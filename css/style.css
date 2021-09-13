@@ -20,7 +20,7 @@ body {
 /*----------Purchasing Cart style-----------*/
 .cart {
   border: 2px solid rgb(169, 211, 169);
-  margin-top: 100px;
+  margin-top: 50px;
   margin-left: 10px;
   border-radius: 5px;
   position: fixed;
